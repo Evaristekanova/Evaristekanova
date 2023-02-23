@@ -14,7 +14,10 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>         
+    <img src="https://img.shields.io/badge/-sequelize-4285F4?style=flat-square&logo=Bootstrapp%&=white"/>
+    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
 ### 💻 Github Status
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Evaristekanova&show_icons=true&theme=merko"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evaristekanova&layout=compact"/>
