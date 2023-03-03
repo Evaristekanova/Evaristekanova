@@ -6,6 +6,9 @@
 - 📫 How to reach me: dusingizimanaevariste3@gmail.com
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: i play basketball and watch movies
+
+[![](https://visitcount.itsvg.in/api?id=Evaristekanova&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ### 💻 Tech Skills
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
