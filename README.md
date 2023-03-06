@@ -24,4 +24,3 @@
 ### 💻 Github Status
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Evaristekanova&show_icons=true&theme=merko"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evaristekanova&layout=compact"/>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Evaristekanova&show_icons=true"/> -->
