@@ -1,6 +1,6 @@
 ### Hello there i'm Evariste Dusingizimana 👋
 
-- 🔭 I’m currently working at Andela as a Trainee
+- 🔭 I’m currently working at Karisimbi Teck as a Backend Engineer
 - 🌱 I’m currently learning all about web development
 - 👯 I’m looking to collaborate on open source project
 - 📫 How to reach me: dusingizimanaevariste3@gmail.com
