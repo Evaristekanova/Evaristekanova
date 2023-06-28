@@ -1,4 +1,4 @@
-### Hello there i'm Evariste Dusingizimana 👋
+### Hello there i'm Evariste👋
 
 - 🔭 I’m currently working at Karisimbi Teck as a Backend Engineer
 - 🌱 I’m currently learning all about web development
