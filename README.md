@@ -3,7 +3,7 @@
 - 🔭 I’m currently working at Karisimbi Teck as a Backend Engineer
 - 🌱 I’m currently learning all about web development
 - 👯 I’m looking to collaborate on open source project
-- 📫 How to reach me: dusingizimanaevariste3@gmail.com
+- 📫 How to reach me: dusingizimanaevariste3@gmail.com or evariste.dusingizimana@karisimbitech.rw
 - ⚡ Fun fact: i play basketball and watch movies
 
 [![](https://visitcount.itsvg.in/api?id=Evaristekanova&icon=0&color=0)](https://visitcount.itsvg.in)
