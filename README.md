@@ -1,9 +1,9 @@
 ### Hello there i'm Evariste👋
 
 - 🌱 I’m currently learning all about web development
-- 👯 I’m looking to collaborate on open source project
+- 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: dusingizimanaevariste3@gmail.com
-- ⚡ Fun fact: i play basketball and watch movies
+- ⚡ Fun fact: I play basketball and pool table games
 
 [![](https://visitcount.itsvg.in/api?id=Evaristekanova&icon=0&color=0)](https://visitcount.itsvg.in)
 
